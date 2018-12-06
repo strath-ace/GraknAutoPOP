@@ -5,7 +5,7 @@ The functions created are based on the specific input structure of the file
 that is described in the article:
 
 [Automatic population of a Grakn Knowledge Graph
- form a single input file]().
+ from a single input file]().
 
 Requirements
 ------------
