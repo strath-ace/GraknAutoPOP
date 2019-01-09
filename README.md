@@ -4,8 +4,7 @@ Knowledge Graph using [Grakn Python client](https://dev.grakn.ai/docs/language-d
 The functions created are based on the specific input structure of the file 
 that is described in the article:
 
-[Automatic population of a Grakn Knowledge Graph
- from a single input file]().
+[Automatic Knowledge Construction of a Grakn Knowledge Graph]().
  
 For the example proposed, I'm relying on data taken from two articles created by 
 [Soroush Saffari](https://blog.grakn.ai/@soroush_26094) of the Grakn team:
