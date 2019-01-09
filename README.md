@@ -6,6 +6,13 @@ that is described in the article:
 
 [Automatic population of a Grakn Knowledge Graph
  from a single input file]().
+ 
+For the example proposed, I'm relying on data taken from two articles created by 
+[Soroush Saffari](https://blog.grakn.ai/@soroush_26094) of the Grakn team:
+
+Schema: [Who’s calling? Grakn. Model and Load a schema into a knowledge graph](https://blog.grakn.ai/whos-calling-grakn-model-and-load-a-schema-into-a-knowledge-graph-f18541faec89).
+
+Instances: [Loading data and querying knowledge from a Grakn Knowledge Graph using the Python client](https://blog.grakn.ai/loading-data-and-querying-knowledge-from-a-grakn-knowledge-graph-using-the-python-client-b764a476cda8).
 
 Requirements
 ------------
@@ -21,7 +28,8 @@ To contribute to this project, please ensure that you have installed the followi
 Installation
 ------------
 
-Before starting `GraknAutoPOP` framework, it is necessary to run the following commands to download, build, and install the required dependancies.
+Before starting `GraknAutoPOP` framework, it is necessary to run 
+the following commands to download, build, and install the required dependencies.
 
     python setup.py
     
